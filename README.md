@@ -1,16 +1,88 @@
-## Hi there 👋
+# Hi there 👋, I'm Kiran Dedhia  
 
-<!--
-**kiruSkill/kiruSkill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Web & Cross-Platform Application Developer**  
+💻 Tech Enthusiast | Problem Solver | Lifelong Learner  
 
-Here are some ideas to get you started:
+I design, develop, and deploy modern **web applications** and **cross-platform mobile apps** with a focus on performance, scalability, and clean UI/UX.  
+Passionate about turning ideas into real-world digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me  
+
+- 🌱 Always learning new technologies & best practices  
+- 💡 Love building end-to-end products from scratch  
+- 🔭 Interested in Web, Mobile Apps, APIs, and Cloud  
+- 🤝 Open to collaboration on exciting projects  
+
+---
+
+## 🛠️ Tech Stack & Skills  
+
+### 🌐 Frontend Development  
+- HTML5  
+- CSS3 / Tailwind CSS / Bootstrap  
+- JavaScript (ES6+)  
+- React.js  
+- Next.js  
+
+### 🖥️ Backend Development  
+- Node.js  
+- Express.js  
+- RESTful APIs  
+- Authentication & Authorization (JWT)  
+
+### 📱 Cross-Platform App Development  
+- React Native  
+- Flutter  
+- Expo  
+
+### 🗄️ Databases  
+- MongoDB  
+- MySQL  
+- PostgreSQL  
+- Firebase  
+
+### ☁️ Cloud & DevOps  
+- Git & GitHub  
+- Docker (Basics)  
+- CI/CD  
+- AWS / Firebase Hosting / Vercel  
+
+### 🧰 Tools & Platforms  
+- VS Code  
+- Postman  
+- Figma  
+- Linux  
+- npm / yarn  
+
+---
+
+## 📌 What I Can Build  
+
+✅ Full-stack web applications  
+✅ REST APIs & backend services  
+✅ Cross-platform mobile apps (Android & iOS)  
+✅ Admin dashboards  
+✅ Authentication systems  
+✅ Responsive & modern UI designs  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me  
+
+- 💼 LinkedIn: *Coming Soon*  
+- 🌐 Portfolio: *Coming Soon*  
+- 📧 Email: *Coming Soon*  
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**  
