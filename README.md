@@ -77,12 +77,4 @@ Passionate about turning ideas into real-world digital solutions.
 
 ---
 
-## 🤝 Connect With Me  
-
-- 💼 LinkedIn: *Coming Soon*  
-- 🌐 Portfolio: *Coming Soon*  
-- 📧 Email: *Coming Soon*  
-
----
-
 ⭐ **If you like my work, consider starring my repositories!**  
